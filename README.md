@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ch.M.S.L.Alekhya 👋
 
-<!--
-**ALEKHYA-CHAKKA/ALEKHYA-CHAKKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 3rd Year | Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, Java, AI/ML and Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Java
+- DSA
+- SQL
+- HTML & CSS
+- JavaScript
+- Spring Boot
+- Git & GitHub
+
+### Currently Learning
+- Advanced Java
+- Spring Boot
+- Data Structures & Algorithms
+- Full-Stack Development
+
+### Projects
+- Coming Soon 🚀
+
+### Connect With Me
+- GitHub: https://github.com/ALEKHYA-CHAKKA
